@@ -3,8 +3,8 @@ unified_theory
 ==============
 
 
-.. image:: https://img.shields.io/travis/emilydolson/unified_theory.svg
-        :target: https://travis-ci.org/emilydolson/unified_theory
+.. image:: https://travis-ci.com/emilydolson/unifed_theory.svg?branch=master
+    :target: https://travis-ci.com/emilydolson/unifed_theory
 
 .. image:: https://readthedocs.org/projects/unified-theory/badge/?version=latest
         :target: https://unified-theory.readthedocs.io/en/latest/?badge=latest
